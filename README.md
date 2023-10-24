@@ -11,7 +11,8 @@ The languages I m-love the most is Python with Jupyter Notebook 🐍. I always t
 ## 📌 School or former projects
 
 I've made some other projects:
-- 💥 [name](https://github.com/erwan1812/): description
+- 💥 [Forum management](https://github.com/erwan1812/ece-webapp-Bonnefond-Freisz): creation of a forum management website using a supabase database in the backend and next js and react in the frontend
+- [Devops Project](https://github.com/erwan1812/ece-devops_project-Bonnefond-Freisz): This is a nodejs application that stores data on a Redis database. It's an application implementing an api with CRUD user functionality. And a database via Redis.
 
 
 📫 How to reach me: erwan.bonnefond@edu.ece.fr or +33695651950
