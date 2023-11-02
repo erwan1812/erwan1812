@@ -6,7 +6,8 @@ The languages I m-love the most is Python with Jupyter Notebook 🐍. I always t
 
 ## 📚 Current project
 
-🌱 I’m currently learning a lot about machine learning and that's why 🔭 I’m currently working on a project of computer vision called : 
+🌱 I’m currently learning a lot about machine learning and that's why 🔭 I’m currently working on a project of deep learning called : 
+- 📚 Diabetes Prediction Using Keras
 
 ## 📌 School or former projects
 
